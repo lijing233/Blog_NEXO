@@ -1,10 +1,10 @@
 # README
 
-Nexo官方文档：<https://hexo.io/zh-cn/>
+**Nexo官方文档**：<https://hexo.io/zh-cn/>
 
-建站基础教程：<https://zhuanlan.zhihu.com/p/26625249?utm_source=weibo&utm_medium=social>
+**建站基础教程**：<https://zhuanlan.zhihu.com/p/26625249?utm_source=weibo&utm_medium=social>
 
-Nexo基本操作命令
+**Nexo基本操作命令**
 
 ```shell
 npm install hexo -g #安装Hexo
@@ -23,4 +23,12 @@ hexo server -p 5000 #更改端口
 hexo server -i 192.168.1.1 #自定义 IP
 hexo clean #清除缓存，若是网页正常情况下可以忽略这条命令
 ```
+
+
+
+**其他建站方法**
+
+Next        <http://theme-next.simpleyyt.com/>>
+
+Jekyll      <http://jekyllcn.com/>
 
