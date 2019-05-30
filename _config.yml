@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
+title: Fenta Blog
+subtitle: welcome to my Blog!
+description: 我是练习时长两年半的小芬达，喜欢唱、跳、Rap、篮球
 keywords:
-author: John Doe
+author: 小芬达
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://lijing233.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
