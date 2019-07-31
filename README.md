@@ -24,7 +24,12 @@ hexo server -i 192.168.1.1 #自定义 IP
 hexo clean #清除缓存，若是网页正常情况下可以忽略这条命令
 ```
 
-
+```
+// 发布
+hexo clean 
+hexo g 
+hexo d
+```
 
 **其他建站方法**
 

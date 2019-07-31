@@ -8,7 +8,7 @@ subtitle: welcome to my Blog!
 description: 我是练习时长两年半的小芬达，喜欢唱、跳、Rap、篮球
 keywords:
 author: 小芬达
-language:
+language: zh-CN
 timezone:
 
 # URL
@@ -73,7 +73,8 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+# theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
