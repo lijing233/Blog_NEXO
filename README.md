@@ -11,7 +11,7 @@ npm install hexo -g #安装Hexo
 npm update hexo -g #升级 
 hexo init #初始化博客
 
-命令简写
+命令简写 未全局安装的 使用 npx hexo xxx
 hexo n "我的博客" == hexo new "我的博客" #新建文章
 hexo g == hexo generate #生成
 hexo s == hexo server #启动服务预览
